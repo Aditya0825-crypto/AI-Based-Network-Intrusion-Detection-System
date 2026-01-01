@@ -1,6 +1,6 @@
 ﻿# AI-Based-Network-Intrusion-Detection-System
 
- 📌 Project Overview
+** 📌 Project Overview**
 
 Traditional security mechanisms struggle to detect modern and evolving cyber-attacks.
 This project implements an intelligent NIDS that:
@@ -14,10 +14,7 @@ Classifies different types of network attacks
 Provides an automated, scalable, and data-driven security solution
 
 The system is developed as part of the AICTE Internship Program.
-🧠 System Architecture
-<img width="3315" height="6100" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-01-01-132925" src="https://github.com/user-attachments/assets/6cc07b84-8cb7-4e1e-8973-b2f03526f795" />
-
-
+**🧠 System Architecture**__
 Workflow:
 
 Network traffic dataset ingestion
@@ -29,7 +26,7 @@ Machine learning model training
 Intrusion detection & classification
 
 Performance evaluation using accuracy metrics
-🛠️ Technology Stack
+**🛠️ Technology Stack**_
 
 Programming Language: Python
 
@@ -50,7 +47,8 @@ Decision Tree
 Random Forest
 
 Development Environment: Anaconda / Jupyter Notebook / VS Code
-🚀 How to Run the Project
+
+**🚀 How to Run the Project**
 
 # Clone the repository
 git clone https://github.com/Aditya0825-crypto/AI-Based-Network-Intrusion-Detection-System.git
@@ -74,6 +72,7 @@ AI_NIDS_Project/
 ├── requirements.txt  # Required Python libraries
 ├── README.md         # Project documentation
 └── .gitignore
+
 
 
 
